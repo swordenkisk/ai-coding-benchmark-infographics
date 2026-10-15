@@ -1,0 +1,4 @@
+model,benchmark,benchmark_version,score,score_unit,higher_is_better,evaluated_on,source_url,input_usd_per_1m_tokens
+Example Model A (synthetic),DEMO ONLY: Coding Benchmark,synthetic-v1,82,points,true,2026-01-10,https://example.invalid/demo-a,
+Example Model B (synthetic),DEMO ONLY: Coding Benchmark,synthetic-v1,76,points,true,2026-01-12,https://example.invalid/demo-b,
+Example Model C (synthetic),DEMO ONLY: Coding Benchmark,synthetic-v1,69,points,true,2026-01-08,https://example.invalid/demo-c,
